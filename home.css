@@ -1,0 +1,154 @@
+body {
+    font-size: 15px/1.5 Arial, helvetice, sans-serif;
+    padding: 0;
+    margin:0;
+    background-color: #f4f4f4;
+}
+
+  
+#current{
+  color:red;
+  border-bottom:1px red solid;
+} 
+
+
+
+.containerr {
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+
+
+
+      .button{
+        height:38px;
+        background: red;
+        border:0;
+        padding-left:20px;
+        color:#ffffff;
+      }
+
+
+
+      .dark {
+        padding:15px;
+        background: #35424a;
+        color:#ffffff;
+        margin-top:10px;
+        margin-bottom:10px;
+      }
+ 
+
+
+       /*showcase*/
+
+      #showcase {
+
+        min-height:600px;
+         background:url(wall.jpg);
+        background-position: center;
+        background-size: cover;
+        text-align:center;
+        color:black;
+
+
+      }
+
+
+      #showcase h1 {
+        margin-top:15%;
+        font-size: 40px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        color:whitesmoke;
+
+      }
+
+      #showcase p {
+        font-size: 25px;
+        color:whitesmoke;
+        font-weight: bold;
+        margin-top: 10%;
+      }
+
+
+
+      /*newletter*/
+
+
+      #newsletter {
+        padding:15px;
+        color:#ffffff;
+        background: #35424a;
+        margin-top: 10px;
+      }
+
+
+      #newsletter h1 {
+        float:left;
+        font-size: 25px;
+        margin-top: 12px;
+
+      }
+
+      #newsletter form {
+        float:right;
+        margin-top:13px;
+      }
+
+
+     #newsletter input [type="email"] {
+        padding:4px;
+        height:25px;
+        width:250px;
+     }
+
+
+     /*boxes*/
+
+
+     #boxes {
+        margin-top:20px;
+     }
+
+
+
+     #boxes .box {
+        float:left;
+        text-align:center;
+        width:30%;
+        padding:10px;
+     }
+
+
+
+
+     #boxes .box img {
+        width:90px;
+     }
+
+
+
+
+
+    
+     footer  {
+      padding:10px;
+      text-align:center;
+      color:white;
+      background-color: black;
+      font-weight:100px;
+  
+      
+     }
+
+
+
+     
+    .button_1 {
+      color:white;
+      background: red;
+    }
+
