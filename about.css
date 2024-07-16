@@ -18,7 +18,7 @@ body {
 
 
 .containerr {
-  width:120%;
+  width:100%;
   margin:auto;
   overflow: hidden;
 }
@@ -235,8 +235,8 @@ body {
 
 #branding-11 .image{
   width:150px;
-  margin-left: 80%;
-   margin-top: -15%;
+  margin-left: 65%;
+   margin-top: -10%;
   border:1px #b5583c solid;
 }
 
