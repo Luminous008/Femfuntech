@@ -20,7 +20,7 @@ body {
 
 @media(max-width:600px) and (orientation:landscape){
     .containerr {
-        width:100%; 
+        width:80%; 
         margin:auto;
     }
 }
